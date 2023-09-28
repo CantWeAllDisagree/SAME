@@ -9,6 +9,8 @@
 * https://www.nexusmods.com/starfield/mods/3584
 * https://www.nexusmods.com/starfield/mods/3760
 * https://www.nexusmods.com/starfield/mods/914
+* https://www.nexusmods.com/starfield/mods/853
+* https://www.nexusmods.com/starfield/mods/1041
 * 
 
 ## Retextures
@@ -60,6 +62,16 @@
 * https://www.nexusmods.com/starfield/mods/3592
 * https://www.nexusmods.com/starfield/mods/3295
 * https://www.nexusmods.com/starfield/mods/3391
+* https://www.nexusmods.com/starfield/mods/2394
+* https://www.nexusmods.com/starfield/mods/3004
+* https://www.nexusmods.com/starfield/mods/3309
+* https://www.nexusmods.com/starfield/mods/3271
+* https://www.nexusmods.com/starfield/mods/3965
+* https://www.nexusmods.com/starfield/mods/4051
+* https://www.nexusmods.com/starfield/mods/1053
+* https://www.nexusmods.com/starfield/mods/1124
+* https://www.nexusmods.com/starfield/mods/3947
+* https://www.nexusmods.com/starfield/mods/1428
 * 
 
 ## QOL
@@ -101,6 +113,12 @@
 * https://www.nexusmods.com/starfield/mods/658
 * https://www.nexusmods.com/starfield/mods/1599
 * https://www.nexusmods.com/starfield/mods/1662
+* https://www.nexusmods.com/starfield/mods/708
+* https://www.nexusmods.com/starfield/mods/999
+* https://www.nexusmods.com/starfield/mods/1185
+* https://www.nexusmods.com/starfield/mods/1387
+* https://www.nexusmods.com/starfield/mods/1445
+* https://www.nexusmods.com/starfield/mods/1412
 * 
 
 ## Overhauls & Tweaks
@@ -154,11 +172,18 @@
 * https://www.nexusmods.com/starfield/mods/3014
 * https://www.nexusmods.com/starfield/mods/3913
 * https://www.nexusmods.com/starfield/mods/3744
+* https://www.nexusmods.com/starfield/mods/777
+* https://www.nexusmods.com/starfield/mods/1297
+* https://www.nexusmods.com/starfield/mods/1341
 * 
 
 # Audio
 * https://www.nexusmods.com/starfield/mods/3019
 * https://www.nexusmods.com/starfield/mods/3888
+* https://www.nexusmods.com/starfield/mods/885?tab=posts
+* https://www.nexusmods.com/starfield/mods/288
+* https://www.nexusmods.com/starfield/mods/271
+* https://www.nexusmods.com/starfield/mods/609
 * 
 
 ## Tools & Lib
