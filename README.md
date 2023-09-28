@@ -11,7 +11,6 @@
 * https://www.nexusmods.com/starfield/mods/914
 * https://www.nexusmods.com/starfield/mods/853
 * https://www.nexusmods.com/starfield/mods/1041
-* 
 
 ## Retextures
 * https://www.nexusmods.com/starfield/mods/3465
@@ -72,7 +71,7 @@
 * https://www.nexusmods.com/starfield/mods/1124
 * https://www.nexusmods.com/starfield/mods/3947
 * https://www.nexusmods.com/starfield/mods/1428
-* 
+* https://www.nexusmods.com/starfield/mods/1525
 
 ## QOL
 * https://www.nexusmods.com/starfield/mods/3629
@@ -119,7 +118,15 @@
 * https://www.nexusmods.com/starfield/mods/1387
 * https://www.nexusmods.com/starfield/mods/1445
 * https://www.nexusmods.com/starfield/mods/1412
-* 
+* https://www.nexusmods.com/starfield/mods/1638
+* https://www.nexusmods.com/starfield/mods/1658
+* https://www.nexusmods.com/starfield/mods/1694
+* https://www.nexusmods.com/starfield/mods/2091
+* https://www.nexusmods.com/starfield/mods/2241
+* https://www.nexusmods.com/starfield/mods/2339
+* https://www.nexusmods.com/starfield/mods/4132
+* https://www.nexusmods.com/starfield/mods/4150
+
 
 ## Overhauls & Tweaks
 * https://www.nexusmods.com/starfield/mods/3353
@@ -147,8 +154,7 @@
 * https://www.nexusmods.com/starfield/mods/2245
 * https://www.nexusmods.com/starfield/mods/884
 * https://www.nexusmods.com/starfield/mods/2830
-* 
-
+  
 
 ## GUI
 * https://www.nexusmods.com/starfield/mods/3274
@@ -175,7 +181,7 @@
 * https://www.nexusmods.com/starfield/mods/777
 * https://www.nexusmods.com/starfield/mods/1297
 * https://www.nexusmods.com/starfield/mods/1341
-* 
+
 
 # Audio
 * https://www.nexusmods.com/starfield/mods/3019
@@ -184,11 +190,10 @@
 * https://www.nexusmods.com/starfield/mods/288
 * https://www.nexusmods.com/starfield/mods/271
 * https://www.nexusmods.com/starfield/mods/609
-* 
+  
 
 ## Tools & Lib
 * https://www.nexusmods.com/starfield/mods/106
 * https://www.nexusmods.com/starfield/mods/196 [https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll]
 * https://www.nexusmods.com/starfield/mods/3256
 * https://www.nexusmods.com/starfield/mods/2740
-* 
