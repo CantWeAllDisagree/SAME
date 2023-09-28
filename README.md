@@ -127,6 +127,7 @@
 * [Wear That Spacesuit](https://www.nexusmods.com/starfield/mods/1412)
 * [Outposts Objects Overlap](https://www.nexusmods.com/starfield/mods/1638)
 * [Better Boostpack Flight](https://www.nexusmods.com/starfield/mods/2203?tab=description)
+* [Closer Followers - CCR](https://www.nexusmods.com/starfield/mods/2916)
 
 
 
