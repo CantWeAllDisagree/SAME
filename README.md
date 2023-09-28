@@ -8,6 +8,7 @@
 * https://www.nexusmods.com/starfield/mods/3649
 * https://www.nexusmods.com/starfield/mods/3584
 * https://www.nexusmods.com/starfield/mods/3760
+* https://www.nexusmods.com/starfield/mods/914
 * 
 
 ## Retextures
@@ -25,6 +26,40 @@
 * https://www.nexusmods.com/starfield/mods/3734
 * https://www.nexusmods.com/starfield/mods/3627
 * https://www.nexusmods.com/starfield/mods/4010
+* https://www.nexusmods.com/starfield/mods/4007
+* https://www.nexusmods.com/starfield/mods/3873
+* https://www.nexusmods.com/starfield/mods/3345
+* https://www.nexusmods.com/starfield/mods/3512
+* https://www.nexusmods.com/starfield/mods/2894
+* https://www.nexusmods.com/starfield/mods/701
+* https://www.nexusmods.com/starfield/mods/1615
+* https://www.nexusmods.com/starfield/mods/340
+* https://www.nexusmods.com/starfield/mods/3118
+* https://www.nexusmods.com/starfield/mods/2173
+* https://www.nexusmods.com/starfield/mods/3026
+* https://www.nexusmods.com/starfield/mods/2469
+* https://www.nexusmods.com/starfield/mods/486
+* https://www.nexusmods.com/starfield/mods/2345
+* https://www.nexusmods.com/starfield/mods/3672
+* https://www.nexusmods.com/starfield/mods/3574
+* https://www.nexusmods.com/starfield/mods/4090
+* https://www.nexusmods.com/starfield/mods/3319
+* https://www.nexusmods.com/starfield/mods/3143
+* https://www.nexusmods.com/starfield/mods/3016
+* https://www.nexusmods.com/starfield/mods/3022
+* https://www.nexusmods.com/starfield/mods/327
+* https://www.nexusmods.com/starfield/mods/3411
+* https://www.nexusmods.com/starfield/mods/3866
+* https://www.nexusmods.com/starfield/mods/3339
+* https://www.nexusmods.com/starfield/mods/3155
+* https://www.nexusmods.com/starfield/mods/392
+* https://www.nexusmods.com/starfield/mods/3944
+* https://www.nexusmods.com/starfield/mods/3741
+* https://www.nexusmods.com/starfield/mods/3814
+* https://www.nexusmods.com/starfield/mods/3890
+* https://www.nexusmods.com/starfield/mods/3592
+* https://www.nexusmods.com/starfield/mods/3295
+* https://www.nexusmods.com/starfield/mods/3391
 * 
 
 ## QOL
@@ -36,10 +71,64 @@
 * https://www.nexusmods.com/starfield/mods/1245
 * https://www.nexusmods.com/starfield/mods/4044
 * https://www.nexusmods.com/starfield/mods/2095
+* https://www.nexusmods.com/starfield/mods/1424
+* https://www.nexusmods.com/starfield/mods/2518
+* https://www.nexusmods.com/starfield/mods/1395
+* https://www.nexusmods.com/starfield/mods/1234
+* https://www.nexusmods.com/starfield/mods/2524
+* https://www.nexusmods.com/starfield/mods/1411
+* https://www.nexusmods.com/starfield/mods/614
+* https://www.nexusmods.com/starfield/mods/1514
+* https://www.nexusmods.com/starfield/mods/3293
+* https://www.nexusmods.com/starfield/mods/2712
+* https://www.nexusmods.com/starfield/mods/2808
+* https://www.nexusmods.com/starfield/mods/3746
+* https://www.nexusmods.com/starfield/mods/88
+* https://www.nexusmods.com/starfield/mods/3092
+* https://www.nexusmods.com/starfield/mods/2645
+* https://www.nexusmods.com/starfield/mods/270
+* https://www.nexusmods.com/starfield/mods/1085
+* https://www.nexusmods.com/starfield/mods/3805
+* https://www.nexusmods.com/starfield/mods/3625
+* https://www.nexusmods.com/starfield/mods/3663
+* https://www.nexusmods.com/starfield/mods/3604
+* https://www.nexusmods.com/starfield/mods/2192
+* https://www.nexusmods.com/starfield/mods/1956
+* https://www.nexusmods.com/starfield/mods/3939
+* https://www.nexusmods.com/starfield/mods/557
+* https://www.nexusmods.com/starfield/mods/3749
+* https://www.nexusmods.com/starfield/mods/1337
+* https://www.nexusmods.com/starfield/mods/658
+* https://www.nexusmods.com/starfield/mods/1599
+* https://www.nexusmods.com/starfield/mods/1662
 * 
+
+## Overhauls & Tweaks
+* https://www.nexusmods.com/starfield/mods/3353
+* https://www.nexusmods.com/starfield/mods/3351
+* https://www.nexusmods.com/starfield/mods/3344
+* https://www.nexusmods.com/starfield/mods/1392
+* https://www.nexusmods.com/starfield/mods/819
+* https://www.nexusmods.com/starfield/mods/2687
+* https://www.nexusmods.com/starfield/mods/2686
+* https://www.nexusmods.com/starfield/mods/3048
+* https://www.nexusmods.com/starfield/mods/809
+* https://www.nexusmods.com/starfield/mods/1833
+* https://www.nexusmods.com/starfield/mods/2599
+* https://www.nexusmods.com/starfield/mods/1510
+* https://www.nexusmods.com/starfield/mods/1511
+* https://www.nexusmods.com/starfield/mods/1475
+* https://www.nexusmods.com/starfield/mods/1169
+* https://www.nexusmods.com/starfield/mods/1479
+* https://www.nexusmods.com/starfield/mods/1502
 
 ## Perfomance 
 * https://www.nexusmods.com/starfield/mods/1104
+* https://www.nexusmods.com/starfield/mods/1933
+* https://www.nexusmods.com/starfield/mods/3930
+* https://www.nexusmods.com/starfield/mods/2245
+* https://www.nexusmods.com/starfield/mods/884
+* https://www.nexusmods.com/starfield/mods/2830
 * 
 
 
@@ -50,9 +139,31 @@
 * https://www.nexusmods.com/starfield/mods/841
 * https://www.nexusmods.com/starfield/mods/3491
 * https://www.nexusmods.com/starfield/mods/750
+* https://www.nexusmods.com/starfield/mods/1133
+* https://www.nexusmods.com/starfield/mods/3242
+* https://www.nexusmods.com/starfield/mods/1581
+* https://www.nexusmods.com/starfield/mods/871
+* https://www.nexusmods.com/starfield/mods/1914
+* https://www.nexusmods.com/starfield/mods/1137
+* https://www.nexusmods.com/starfield/mods/1529
+* https://www.nexusmods.com/starfield/mods/404
+* https://www.nexusmods.com/starfield/mods/682
+* https://www.nexusmods.com/starfield/mods/1425
+* https://www.nexusmods.com/starfield/mods/3063
+* https://www.nexusmods.com/starfield/mods/3564
+* https://www.nexusmods.com/starfield/mods/3014
+* https://www.nexusmods.com/starfield/mods/3913
+* https://www.nexusmods.com/starfield/mods/3744
+* 
+
+# Audio
+* https://www.nexusmods.com/starfield/mods/3019
+* https://www.nexusmods.com/starfield/mods/3888
 * 
 
 ## Tools & Lib
 * https://www.nexusmods.com/starfield/mods/106
 * https://www.nexusmods.com/starfield/mods/196 [https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll]
+* https://www.nexusmods.com/starfield/mods/3256
+* https://www.nexusmods.com/starfield/mods/2740
 * 
