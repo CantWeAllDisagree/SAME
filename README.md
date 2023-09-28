@@ -94,7 +94,7 @@
 * [Hide Spacesuit in Breathable Areas](https://www.nexusmods.com/starfield/mods/2095)
 * [Third-Person ADS FOV](https://www.nexusmods.com/starfield/mods/1424)
 * [Outpost Limits](https://www.nexusmods.com/starfield/mods/2518)
-* [Increased Ship Transfer Distance](https://www.nexusmods.com/starfield/mods/1395)
+* [CCR - Ship cargo transfer distance](https://www.nexusmods.com/starfield/mods/2975)
 * [Better Sprint Costs](https://www.nexusmods.com/starfield/mods/1234)
 * [Climbing Animation Speed (Ladder and Mantle) - Including Mantling Fix](https://www.nexusmods.com/starfield/mods/2524)
 * [Simple Faster Walk](https://www.nexusmods.com/starfield/mods/1411)
