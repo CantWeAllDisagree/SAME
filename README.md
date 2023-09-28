@@ -1,199 +1,198 @@
 # Starfield Modlist
 
 ## Weather
-* [Starfield Dynamic Weather Mod CCR]https://www.nexusmods.com/starfield/mods/3585
+* [Starfield Dynamic Weather Mod CCR](https://www.nexusmods.com/starfield/mods/3585)
 
 
 ## Visual
 * [NAS - NATURAL and ATMOSPHERIC SPACE](https://www.nexusmods.com/starfield/mods/3649)
-* [Bilingual map in Chinese and English-AKILA City]https://www.nexusmods.com/starfield/mods/3584
-* [Immersive Debris - CCR]https://www.nexusmods.com/starfield/mods/3760
-* [Immersive Shell Casings]https://www.nexusmods.com/starfield/mods/914
-* [Clear Loading Screens]https://www.nexusmods.com/starfield/mods/853
-* [Nuclear Earth]https://www.nexusmods.com/starfield/mods/1041
+* [Bilingual map in Chinese and English-AKILA City](https://www.nexusmods.com/starfield/mods/3584)
+* [Immersive Debris - CCR](https://www.nexusmods.com/starfield/mods/3760)
+* [Immersive Shell Casings](https://www.nexusmods.com/starfield/mods/914)
+* [Clear Loading Screens](https://www.nexusmods.com/starfield/mods/853)
+* [Nuclear Earth](https://www.nexusmods.com/starfield/mods/1041)
 
 ## Retextures
-* [URBAN EAGLE Mire PAINT]https://www.nexusmods.com/starfield/mods/3465
-* [EON Industrial PAINT]https://www.nexusmods.com/starfield/mods/3807
-* [GRENDEL Umbra PAINT]https://www.nexusmods.com/starfield/mods/3964
-* [PLAGUE'S OPTICS REIMAGINED]https://www.nexusmods.com/starfield/mods/3519
-* [The Eyes of Beauty - Starfield Edition]https://www.nexusmods.com/starfield/mods/493
-* [Drink Pack Redone]https://www.nexusmods.com/starfield/mods/3927
-* [SM451s Texture Trove]https://www.nexusmods.com/starfield/mods/4074
-* [HQ Med-Pharma Kit]https://www.nexusmods.com/starfield/mods/1725
-* [HD Med Packs]https://www.nexusmods.com/starfield/mods/1919
-* [Big Bang Shotgun ET Atari Reloading]https://www.nexusmods.com/starfield/mods/3830
-* [Doctor Who Inspired Mining Gear]https://www.nexusmods.com/starfield/mods/2958
-* [OLD WORLD - Neon Technician - recolor]https://www.nexusmods.com/starfield/mods/3734
-* [OLD WORLD - Ground crew spacesuit - recolor]https://www.nexusmods.com/starfield/mods/3627
-* []https://www.nexusmods.com/starfield/mods/4010
-* []https://www.nexusmods.com/starfield/mods/4007
-* []https://www.nexusmods.com/starfield/mods/3873
-* []https://www.nexusmods.com/starfield/mods/3345
-* []https://www.nexusmods.com/starfield/mods/3512
-* []https://www.nexusmods.com/starfield/mods/2894
-* []https://www.nexusmods.com/starfield/mods/701
-* []https://www.nexusmods.com/starfield/mods/1615
-* []https://www.nexusmods.com/starfield/mods/340
-* []https://www.nexusmods.com/starfield/mods/3118
-* []https://www.nexusmods.com/starfield/mods/2173
-* []https://www.nexusmods.com/starfield/mods/3026
-* []https://www.nexusmods.com/starfield/mods/2469
-* []https://www.nexusmods.com/starfield/mods/486
-* []https://www.nexusmods.com/starfield/mods/2345
-* []https://www.nexusmods.com/starfield/mods/3672
-* []https://www.nexusmods.com/starfield/mods/3574
-* []https://www.nexusmods.com/starfield/mods/4090
-* []https://www.nexusmods.com/starfield/mods/3319
-* []https://www.nexusmods.com/starfield/mods/3143
-* []https://www.nexusmods.com/starfield/mods/3016
-* []https://www.nexusmods.com/starfield/mods/3022
-* []https://www.nexusmods.com/starfield/mods/327
-* []https://www.nexusmods.com/starfield/mods/3411
-* []https://www.nexusmods.com/starfield/mods/3866
-* []https://www.nexusmods.com/starfield/mods/3339
-* []https://www.nexusmods.com/starfield/mods/3155
-* []https://www.nexusmods.com/starfield/mods/392
-* []https://www.nexusmods.com/starfield/mods/3944
-* []https://www.nexusmods.com/starfield/mods/3741
-* []https://www.nexusmods.com/starfield/mods/3814
-* []https://www.nexusmods.com/starfield/mods/3890
-* []https://www.nexusmods.com/starfield/mods/3592
-* []https://www.nexusmods.com/starfield/mods/3295
-* []https://www.nexusmods.com/starfield/mods/3391
-* []https://www.nexusmods.com/starfield/mods/2394
-* []https://www.nexusmods.com/starfield/mods/3004
-* []https://www.nexusmods.com/starfield/mods/3309
-* []https://www.nexusmods.com/starfield/mods/3271
-* []https://www.nexusmods.com/starfield/mods/3965
-* []https://www.nexusmods.com/starfield/mods/4051
-* []https://www.nexusmods.com/starfield/mods/1053
-* []https://www.nexusmods.com/starfield/mods/1124
-* []https://www.nexusmods.com/starfield/mods/3947
-* []https://www.nexusmods.com/starfield/mods/1428
-* []https://www.nexusmods.com/starfield/mods/1525
+* [URBAN EAGLE Mire PAINT](https://www.nexusmods.com/starfield/mods/3465)
+* [EON Industrial PAINT](https://www.nexusmods.com/starfield/mods/3807)
+* [GRENDEL Umbra PAINT](https://www.nexusmods.com/starfield/mods/3964)
+* [PLAGUE'S OPTICS REIMAGINED](https://www.nexusmods.com/starfield/mods/3519)
+* [The Eyes of Beauty - Starfield Edition](https://www.nexusmods.com/starfield/mods/493)
+* [Drink Pack Redone](https://www.nexusmods.com/starfield/mods/3927)
+* [SM451s Texture Trove](https://www.nexusmods.com/starfield/mods/4074)
+* [HQ Med-Pharma Kit](https://www.nexusmods.com/starfield/mods/1725)
+* [HD Med Packs](https://www.nexusmods.com/starfield/mods/1919)
+* [Big Bang Shotgun ET Atari Reloading](https://www.nexusmods.com/starfield/mods/3830)
+* [Doctor Who Inspired Mining Gear](https://www.nexusmods.com/starfield/mods/2958)
+* [OLD WORLD - Neon Technician - recolor](https://www.nexusmods.com/starfield/mods/3734)
+* [OLD WORLD - Ground crew spacesuit - recolor](https://www.nexusmods.com/starfield/mods/3627)
+* [NASA Visions Of The Future Posters Replacer](https://www.nexusmods.com/starfield/mods/4010)
+* [Easy Read Dark UI - Display Screens](https://www.nexusmods.com/starfield/mods/4007)
+* [Enhanced Starfield Clouds](https://www.nexusmods.com/starfield/mods/3873)
+* [Concept Art Loading Screens](https://www.nexusmods.com/starfield/mods/3512)
+* [Stellar Glass](https://www.nexusmods.com/starfield/mods/2894)
+* [Vanilla Flashlight Improved (VFI)](https://www.nexusmods.com/starfield/mods/701)
+* [Stellar Water](https://www.nexusmods.com/starfield/mods/1615)
+* [EXE - Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340)
+* [Nova Cockpit Screen Colour](https://www.nexusmods.com/starfield/mods/3118)
+* [Retro Vasco](https://www.nexusmods.com/starfield/mods/2173)
+* [Bullet hole Impact VERSION 2.0](https://www.nexusmods.com/starfield/mods/3026)
+* [Some Alternate Akila Sign Text](https://www.nexusmods.com/starfield/mods/2469)
+* [Realistic Water](https://www.nexusmods.com/starfield/mods/486)
+* [HQ - DigiPick and CreditStick](https://www.nexusmods.com/starfield/mods/2345)
+* [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
+* [Immersive New Atlantis City Map](https://www.nexusmods.com/starfield/mods/3574)
+* [Old World Wines](https://www.nexusmods.com/starfield/mods/4090)
+* [Cosmic Canvas](https://www.nexusmods.com/starfield/mods/3319)
+* [Armillary and Cargo Screen Colour](https://www.nexusmods.com/starfield/mods/3143)
+* [Hopetech Cockpit Screen Colour](https://www.nexusmods.com/starfield/mods/3016)
+* [Stroud-Eklund Cockpit Screen Colour](https://www.nexusmods.com/starfield/mods/3022)
+* [High-Vis Crosshair And Scope Replacement - Ultrawide Compatible](https://www.nexusmods.com/starfield/mods/327)
+* [Fallout Vault-Tec Laser Cutter](https://www.nexusmods.com/starfield/mods/3411)
+* [Condensation on Glass](https://www.nexusmods.com/starfield/mods/3866)
+* [Lucky Strike And Camel Cigarettes](https://www.nexusmods.com/starfield/mods/3339)
+* [Navigation Console Screen Colour](https://www.nexusmods.com/starfield/mods/3155)
+* [Dark Terminal Display](https://www.nexusmods.com/starfield/mods/392)
+* [Neon City Maps](https://www.nexusmods.com/starfield/mods/3944)
+* [SavrenX Stone](https://www.nexusmods.com/starfield/mods/3741)
+* [SavrenX Cave](https://www.nexusmods.com/starfield/mods/3814)
+* [SavrenX Hair](https://www.nexusmods.com/starfield/mods/3890)
+* [SavrenX Crisp Flora V2.1](https://www.nexusmods.com/starfield/mods/3592)
+* [SavrenX HD NPC Optimized](https://www.nexusmods.com/starfield/mods/3295)
+* [SavrenX HD Crowd Optimized V2](https://www.nexusmods.com/starfield/mods/3391)
+* [Akila Security Dark](https://www.nexusmods.com/starfield/mods/2394)
+* [Freestar Security Leather Fix](https://www.nexusmods.com/starfield/mods/3004)
+* [CAN-UCK Cap](https://www.nexusmods.com/starfield/mods/3309)
+* [ST-ART FIELD - Helmets Pack I](https://www.nexusmods.com/starfield/mods/3271)
+* [Camo Ecliptic](https://www.nexusmods.com/starfield/mods/3965)
+* [Retro Shock Trooper Armor](https://www.nexusmods.com/starfield/mods/4051)
+* [Board Game Replacer. Skyrim and Warhammer or Fallout and Skyrim](https://www.nexusmods.com/starfield/mods/1053)
+* [HD Scorch Marks](https://www.nexusmods.com/starfield/mods/1124)
+* [sGarfield](https://www.nexusmods.com/starfield/mods/3947)
+* [Authority apparel wardrobe](https://www.nexusmods.com/starfield/mods/1428)
+* [Japanese Steel - Real Katana](https://www.nexusmods.com/starfield/mods/1525)
+* [Improved Transit Signs for New Atlantis](https://www.nexusmods.com/starfield/mods/2712)
+* [YIEF - Hazmat Suit Reimagined (Gold Trim)](https://www.nexusmods.com/starfield/mods/708)
+* [Nicolas Potato](https://www.nexusmods.com/starfield/mods/1658)
+* [Drumbeat Random Skin Pack](https://www.nexusmods.com/starfield/mods/1694)
+* [KEELHAULER - Black and Bronze Edition](https://www.nexusmods.com/starfield/mods/2091)
+* [Original 1911 Grip for Old Earth or Sir Livingstone's Pistol](https://www.nexusmods.com/starfield/mods/2241)
+* [Morley Cigarettes - Retexture](https://www.nexusmods.com/starfield/mods/2339)
+* [Planet earth from fallout - Fallout 3 - Replacement](https://www.nexusmods.com/starfield/mods/4132)
+* [Defaced Sanitation Robot](https://www.nexusmods.com/starfield/mods/4150)
+* [Ritz Crackers](https://www.nexusmods.com/starfield/mods/3550)
 
 ## QOL
-* []https://www.nexusmods.com/starfield/mods/3629
-* []https://www.nexusmods.com/starfield/mods/4086
-* []https://www.nexusmods.com/starfield/mods/2489
-* []https://www.nexusmods.com/starfield/mods/3636
-* []https://www.nexusmods.com/starfield/mods/3194
-* []https://www.nexusmods.com/starfield/mods/1245
-* []https://www.nexusmods.com/starfield/mods/4044
-* []https://www.nexusmods.com/starfield/mods/2095
-* []https://www.nexusmods.com/starfield/mods/1424
-* []https://www.nexusmods.com/starfield/mods/2518
-* []https://www.nexusmods.com/starfield/mods/1395
-* []https://www.nexusmods.com/starfield/mods/1234
-* []https://www.nexusmods.com/starfield/mods/2524
-* []https://www.nexusmods.com/starfield/mods/1411
-* []https://www.nexusmods.com/starfield/mods/614
-* []https://www.nexusmods.com/starfield/mods/1514
-* []https://www.nexusmods.com/starfield/mods/3293
-* []https://www.nexusmods.com/starfield/mods/2712
-* []https://www.nexusmods.com/starfield/mods/2808
-* []https://www.nexusmods.com/starfield/mods/3746
-* []https://www.nexusmods.com/starfield/mods/88
-* []https://www.nexusmods.com/starfield/mods/3092
-* []https://www.nexusmods.com/starfield/mods/2645
-* []https://www.nexusmods.com/starfield/mods/270
-* []https://www.nexusmods.com/starfield/mods/1085
-* []https://www.nexusmods.com/starfield/mods/3805
-* []https://www.nexusmods.com/starfield/mods/3625
-* []https://www.nexusmods.com/starfield/mods/3663
-* []https://www.nexusmods.com/starfield/mods/3604
-* []https://www.nexusmods.com/starfield/mods/2192
-* []https://www.nexusmods.com/starfield/mods/1956
-* []https://www.nexusmods.com/starfield/mods/3939
-* []https://www.nexusmods.com/starfield/mods/557
-* []https://www.nexusmods.com/starfield/mods/3749
-* []https://www.nexusmods.com/starfield/mods/1337
-* []https://www.nexusmods.com/starfield/mods/658
-* []https://www.nexusmods.com/starfield/mods/1599
-* []https://www.nexusmods.com/starfield/mods/1662
-* []https://www.nexusmods.com/starfield/mods/708
-* []https://www.nexusmods.com/starfield/mods/999
-* []https://www.nexusmods.com/starfield/mods/1185
-* []https://www.nexusmods.com/starfield/mods/1387
-* []https://www.nexusmods.com/starfield/mods/1445
-* []https://www.nexusmods.com/starfield/mods/1412
-* []https://www.nexusmods.com/starfield/mods/1638
-* []https://www.nexusmods.com/starfield/mods/1658
-* []https://www.nexusmods.com/starfield/mods/1694
-* []https://www.nexusmods.com/starfield/mods/2091
-* []https://www.nexusmods.com/starfield/mods/2241
-* []https://www.nexusmods.com/starfield/mods/2339
-* []https://www.nexusmods.com/starfield/mods/4132
-* []https://www.nexusmods.com/starfield/mods/4150
+* [No XP Kill Steal Fix - CCR](https://www.nexusmods.com/starfield/mods/3345)
+* [Center of Attention Fix](https://www.nexusmods.com/starfield/mods/3629)
+* [Faster Airlock and Hatch and Door Animations - Sound Fix](https://www.nexusmods.com/starfield/mods/4086)
+* [Faster Airlock and Hatch and Door Animations](https://www.nexusmods.com/starfield/mods/2489)
+* [No Instant Ship Exit-Board](https://www.nexusmods.com/starfield/mods/3636)
+* [First Person Messages - CCR](https://www.nexusmods.com/starfield/mods/3194)
+* [Power Attack Cost Reduction](https://www.nexusmods.com/starfield/mods/1245)
+* [Walk By Default](https://www.nexusmods.com/starfield/mods/4044)
+* [Hide Spacesuit in Breathable Areas](https://www.nexusmods.com/starfield/mods/2095)
+* [Third-Person ADS FOV](https://www.nexusmods.com/starfield/mods/1424)
+* [Outpost Limits](https://www.nexusmods.com/starfield/mods/2518)
+* [Increased Ship Transfer Distance](https://www.nexusmods.com/starfield/mods/1395)
+* [Better Sprint Costs](https://www.nexusmods.com/starfield/mods/1234)
+* [Climbing Animation Speed (Ladder and Mantle) - Including Mantling Fix](https://www.nexusmods.com/starfield/mods/2524)
+* [Simple Faster Walk](https://www.nexusmods.com/starfield/mods/1411)
+* [Enemy Friendly Fire (SFSE)](https://www.nexusmods.com/starfield/mods/614)
+* [BlobSeer - Increased Resource Vein View Distance](https://www.nexusmods.com/starfield/mods/1514)
+* [Photo Mode Camera Improvements - CCR](https://www.nexusmods.com/starfield/mods/3293)
+* [Slowmo Power Alloc - CCR](https://www.nexusmods.com/starfield/mods/3746)
+* [Cleanfield - A No-Intro Videos and Clean Menu Fix](https://www.nexusmods.com/starfield/mods/88)
+* [Custom Hotkey Functions](https://www.nexusmods.com/starfield/mods/3092)
+* [Custom Hotkey Functions](https://www.nexusmods.com/starfield/mods/2645)
+* [Starfield Display Revamp](https://www.nexusmods.com/starfield/mods/1085)
+* [Clear Imagespace Modifiers](https://www.nexusmods.com/starfield/mods/3805)
+* [No more Death animations - Realistic Ragdolls v2](https://www.nexusmods.com/starfield/mods/3625)
+* [Better Bunch of Bodies - CCR](https://www.nexusmods.com/starfield/mods/3663)
+* [Better Death Physics - CCR](https://www.nexusmods.com/starfield/mods/3604)
+* [ADS FOV Removed (SFSE)](https://www.nexusmods.com/starfield/mods/2192)
+* [Hold To Equip Extended (SFSE)](https://www.nexusmods.com/starfield/mods/1956)
+* [Real Third-Person ADS](https://www.nexusmods.com/starfield/mods/3939)
+* [Classic Sprinting (Hold to sprint)](https://www.nexusmods.com/starfield/mods/557)
+* [Outpost Building QoL - CCR](https://www.nexusmods.com/starfield/mods/3749)
+* [Flight Controls Autoalign](https://www.nexusmods.com/starfield/mods/1337)
+* [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
+* [Baka Disable My Games Folder](https://www.nexusmods.com/starfield/mods/1599)
+* [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
+* [Better Mines](https://www.nexusmods.com/starfield/mods/1185)
+* [Ultra-Anim - Faster Interaction Animations - Airlocks Ladders and More By Bub](https://www.nexusmods.com/starfield/mods/1387)
+* [Turn off dialogue camera light](https://www.nexusmods.com/starfield/mods/1445)
+* [Wear That Spacesuit](https://www.nexusmods.com/starfield/mods/1412)
+* [Outposts Objects Overlap](https://www.nexusmods.com/starfield/mods/1638)
+
 
 
 ## Overhauls & Tweaks
-* []https://www.nexusmods.com/starfield/mods/3353
-* []https://www.nexusmods.com/starfield/mods/3351
-* []https://www.nexusmods.com/starfield/mods/3344
-* []https://www.nexusmods.com/starfield/mods/1392
-* []https://www.nexusmods.com/starfield/mods/819
-* []https://www.nexusmods.com/starfield/mods/2687
-* []https://www.nexusmods.com/starfield/mods/2686
-* []https://www.nexusmods.com/starfield/mods/3048
-* []https://www.nexusmods.com/starfield/mods/809
-* []https://www.nexusmods.com/starfield/mods/1833
-* []https://www.nexusmods.com/starfield/mods/2599
-* []https://www.nexusmods.com/starfield/mods/1510
-* []https://www.nexusmods.com/starfield/mods/1511
-* []https://www.nexusmods.com/starfield/mods/1475
-* []https://www.nexusmods.com/starfield/mods/1169
-* []https://www.nexusmods.com/starfield/mods/1479
-* []https://www.nexusmods.com/starfield/mods/1502
+* [Better out of LOS Sneaking - CCR](https://www.nexusmods.com/starfield/mods/3353)
+* [Less Spongy Player - CCR](https://www.nexusmods.com/starfield/mods/3351)
+* [Less Spongy Enemies - CCR](https://www.nexusmods.com/starfield/mods/3344)
+* [Improved Combat AI](https://www.nexusmods.com/starfield/mods/1392)
+* [Stealth Overhaul](https://www.nexusmods.com/starfield/mods/819)
+* [Better Food and Chems](https://www.nexusmods.com/starfield/mods/2687)
+* [Immersive Planet Density](https://www.nexusmods.com/starfield/mods/2686)
+* [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048)
+* [Burden Me Not - Clutter Begone](https://www.nexusmods.com/starfield/mods/809)
+* [Perk Up - Richer Galaxy](https://www.nexusmods.com/starfield/mods/1833)
+* [No Grav Drive Weight Limit](https://www.nexusmods.com/starfield/mods/2599)
+* [No Weapon Power or Count Limits](https://www.nexusmods.com/starfield/mods/1510)
+* [No Engine Power Limits](https://www.nexusmods.com/starfield/mods/1511)
+* [No Shield Limit](https://www.nexusmods.com/starfield/mods/1475)
+* [No Reactor Limit](https://www.nexusmods.com/starfield/mods/1169)
+* [No Minimum Landing Gear](https://www.nexusmods.com/starfield/mods/1479)
+* [Starfield Texture Optimization - Overhaul](https://www.nexusmods.com/starfield/mods/1502)
 
 ## Perfomance 
-* []https://www.nexusmods.com/starfield/mods/1104
-* []https://www.nexusmods.com/starfield/mods/1933
-* []https://www.nexusmods.com/starfield/mods/3930
-* []https://www.nexusmods.com/starfield/mods/2245
-* []https://www.nexusmods.com/starfield/mods/884
-* []https://www.nexusmods.com/starfield/mods/2830
+* [Enhanced Performance LOD](https://www.nexusmods.com/starfield/mods/1104)
+* [The Unofficial Starfield Performance Patch](https://www.nexusmods.com/starfield/mods/1933)
+* [Upscaling Fix 2 - FSR - DLSS - XeSS](https://www.nexusmods.com/starfield/mods/3930)
+* [Disk Cache Enabler](https://www.nexusmods.com/starfield/mods/2245)
+* [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884)
+* [Weapon Swap Stuttering Fix](https://www.nexusmods.com/starfield/mods/2830)
   
 
 ## GUI
-* []https://www.nexusmods.com/starfield/mods/3274
-* []https://www.nexusmods.com/starfield/mods/3444
-* []https://www.nexusmods.com/starfield/mods/3728
-* []https://www.nexusmods.com/starfield/mods/841
-* []https://www.nexusmods.com/starfield/mods/3491
-* []https://www.nexusmods.com/starfield/mods/750
-* []https://www.nexusmods.com/starfield/mods/1133
-* []https://www.nexusmods.com/starfield/mods/3242
-* []https://www.nexusmods.com/starfield/mods/1581
-* []https://www.nexusmods.com/starfield/mods/871
-* []https://www.nexusmods.com/starfield/mods/1914
-* []https://www.nexusmods.com/starfield/mods/1137
-* []https://www.nexusmods.com/starfield/mods/1529
-* []https://www.nexusmods.com/starfield/mods/404
-* []https://www.nexusmods.com/starfield/mods/682
-* []https://www.nexusmods.com/starfield/mods/1425
-* []https://www.nexusmods.com/starfield/mods/3063
-* []https://www.nexusmods.com/starfield/mods/3564
-* []https://www.nexusmods.com/starfield/mods/3014
-* []https://www.nexusmods.com/starfield/mods/3913
-* []https://www.nexusmods.com/starfield/mods/3744
-* []https://www.nexusmods.com/starfield/mods/777
-* []https://www.nexusmods.com/starfield/mods/1297
-* []https://www.nexusmods.com/starfield/mods/1341
-
+* [Compact Crafting UI](https://www.nexusmods.com/starfield/mods/3274)
+* [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444)
+* [Pause Menu Milky Way Background](https://www.nexusmods.com/starfield/mods/3728)
+* [Deep Space Main Menu Replacement](https://www.nexusmods.com/starfield/mods/841)
+* [StarUI Material Icons (Simple - HUD - Inventory)](https://www.nexusmods.com/starfield/mods/3491)
+* [Visible Skills Descriptions](https://www.nexusmods.com/starfield/mods/750)
+* [Better Surface Map](https://www.nexusmods.com/starfield/mods/1133)
+* [Easy Read Dark UI - Mission Boards](https://www.nexusmods.com/starfield/mods/3242)
+* [Faster Favorites Menu](https://www.nexusmods.com/starfield/mods/1581)
+* [Enhanced Dialogue Interface](https://www.nexusmods.com/starfield/mods/871)
+* [Enhanced Subtitles](https://www.nexusmods.com/starfield/mods/1914)
+* [BetterHUD - Enhanced Player Healthbar and Boostbar Patch - Scanner Encumbrance Display With Time Patch](https://www.nexusmods.com/starfield/mods/1137)
+* [Easy Read Dark UI - Research Laboratory](https://www.nexusmods.com/starfield/mods/1529)
+* [Undelayed Menus](https://www.nexusmods.com/starfield/mods/404)
+* [Compact Mission UI](https://www.nexusmods.com/starfield/mods/682)
+* [No Data Menu Flicker](https://www.nexusmods.com/starfield/mods/1425)
+* [Compact Build Menu UI](https://www.nexusmods.com/starfield/mods/3063)
+* [Increased Starmap Zoom for More Precise Landings - CCR](https://www.nexusmods.com/starfield/mods/3564)
+* [Compact Crew Menu UI](https://www.nexusmods.com/starfield/mods/3014)
+* [Easy Read Dark UI - Clean Terminals](https://www.nexusmods.com/starfield/mods/3913)
+* [No Digipick Menu Background](https://www.nexusmods.com/starfield/mods/3744)
+* [Start Logo Flash - StarHub Style](https://www.nexusmods.com/starfield/mods/777)
+* [REPLACE CIRCLE CURSOR](https://www.nexusmods.com/starfield/mods/1297)
+* [99 Hours Wait Menu](https://www.nexusmods.com/starfield/mods/1341)
+* [Smooth Ship Reticle (120fps Smooth UI)](https://www.nexusmods.com/starfield/mods/270)
+* [Transparent Wait Prompt](https://www.nexusmods.com/starfield/mods/999)
 
 # Audio
-* []https://www.nexusmods.com/starfield/mods/3019
-* []https://www.nexusmods.com/starfield/mods/3888
-* []https://www.nexusmods.com/starfield/mods/885?tab=posts
-* []https://www.nexusmods.com/starfield/mods/288
-* []https://www.nexusmods.com/starfield/mods/271
-* []https://www.nexusmods.com/starfield/mods/609
-  
+* [Interstellar Auralis - Audio Overhaul](https://www.nexusmods.com/starfield/mods/3019)
+* [Stellar Sounds (Headshot Sound Options)](https://www.nexusmods.com/starfield/mods/3888)
+* [More Subtle Scanner Sounds (No High Pitch - Menus UI Interactions - Less Annoying)](https://www.nexusmods.com/starfield/mods/885)
+* [More Subtle Quest Music (Shorter Sound - Immersive - Less Annoying)](https://www.nexusmods.com/starfield/mods/288)
+* [More Subtle Level Up Sounds (Less Orchestral - Immersive - Less Annoying)](https://www.nexusmods.com/starfield/mods/271)
+* [Vasco Reduced Foostep Sounds](https://www.nexusmods.com/starfield/mods/2808)
 
 ## Tools & Lib
-* []https://www.nexusmods.com/starfield/mods/106
-* []https://www.nexusmods.com/starfield/mods/196 [[]https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll]
-* []https://www.nexusmods.com/starfield/mods/3256
-* []https://www.nexusmods.com/starfield/mods/2740
+* [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
+* [Starfield FSR2 Bridge - Replacing FSR2 with DLSS or XeSS](https://www.nexusmods.com/starfield/mods/196) [XeSS .dll](https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll)
+* [Address Library for SFSE Plugins](https://www.nexusmods.com/starfield/mods/3256)
+* [Console Command Runner](https://www.nexusmods.com/starfield/mods/2740)
