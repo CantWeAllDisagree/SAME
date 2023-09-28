@@ -11,6 +11,8 @@
 * [Immersive Shell Casings](https://www.nexusmods.com/starfield/mods/914)
 * [Clear Loading Screens](https://www.nexusmods.com/starfield/mods/853)
 * [Nuclear Earth](https://www.nexusmods.com/starfield/mods/1041)
+* [Realistic Ejection Pattern](https://www.nexusmods.com/starfield/mods/3325)
+* [Realistic Stars](https://www.nexusmods.com/starfield/mods/2151)
 
 ## Retextures
 * [URBAN EAGLE Mire PAINT](https://www.nexusmods.com/starfield/mods/3465)
@@ -124,6 +126,7 @@
 * [Turn off dialogue camera light](https://www.nexusmods.com/starfield/mods/1445)
 * [Wear That Spacesuit](https://www.nexusmods.com/starfield/mods/1412)
 * [Outposts Objects Overlap](https://www.nexusmods.com/starfield/mods/1638)
+* [Better Boostpack Flight](https://www.nexusmods.com/starfield/mods/2203?tab=description)
 
 
 
