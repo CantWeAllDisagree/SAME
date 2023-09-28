@@ -106,7 +106,7 @@
 * [Slowmo Power Alloc - CCR](https://www.nexusmods.com/starfield/mods/3746)
 * [Cleanfield - A No-Intro Videos and Clean Menu Fix](https://www.nexusmods.com/starfield/mods/88)
 * [Custom Hotkey Functions](https://www.nexusmods.com/starfield/mods/3092)
-* [Custom Hotkey Functions](https://www.nexusmods.com/starfield/mods/2645)
+* [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
 * [Starfield Display Revamp](https://www.nexusmods.com/starfield/mods/1085)
 * [Clear Imagespace Modifiers](https://www.nexusmods.com/starfield/mods/3805)
 * [No more Death animations - Realistic Ragdolls v2](https://www.nexusmods.com/starfield/mods/3625)
