@@ -1,5 +1,3 @@
-# Starfield Modlist
-
 ## Weather
 * [Starfield Dynamic Weather Mod CCR](https://www.nexusmods.com/starfield/mods/3585)
 
